@@ -1,4 +1,5 @@
 ## **README: Buscador de Atletas Olímpicos** 
+## **Imersão Dev Alura com o Google Gemini** 
 
 ### **O que faz essa aplicação?**
 
